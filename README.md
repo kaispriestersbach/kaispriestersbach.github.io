@@ -2,7 +2,7 @@
 
 A personal website styled as an FPS/tactical game character sheet, showcasing my career, skills, achievements, and life goals in a gamified format.
 
-**Live:** [spriestersbach.github.io](https://spriestersbach.github.io)
+**Live:** [kaispriestersbach.github.io](https://kaispriestersbach.github.io)
 
 ## About
 
